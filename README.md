@@ -4,8 +4,7 @@
 
 Implementação de um sistema de gestão de ativos e chamados em uma VM Ubuntu com recursos limitados, compartilhada com um servidor RustDesk já instalado em Docker para futura integração entre o GLPI e RustDesk.
 
-O projeto documenta a preparação da memória virtual, a instalação do GLPI com MariaDB, o acesso administrativo por túnel SSH e o procedimento futuro para publicação com domínio e HTTPS.
-
+O projeto feito em laboratório e documenta a preparação da memória virtual, a instalação do GLPI com MariaDB, o acesso administrativo por túnel SSH e o procedimento futuro para publicação com domínio e HTTPS.
 
 ## Sumário
 
